@@ -12,9 +12,9 @@
 
 <!-- Introduction -->
 
-## <p align="center"> Platform Engineer @Extreme & Co-Founder @Nutrus </p>
+## <p align="center"> Engineer @Extreme & Co-Founder @Nutrus </p>
 
-- 🔭 My research interests lie in AI methods for decision optimization and medical research
+- 🔭 My research interests lie in developing AI methods for decision optimization and medical research
 - 🌱 A few applications include deep learning for ATM cash optimization & diagnostic tool for predicting animal diseases 
 - 👯 I’m currently making way for my master's as a prospective Fall'22 grad
 
