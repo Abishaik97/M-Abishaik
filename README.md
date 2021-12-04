@@ -12,7 +12,7 @@
 
 <!-- Introduction -->
 
-## <p align="center"> Engineer @Extreme & Co-founder @Nutrus </p>
+## <p align="center"> Quality Engineer @Extreme & Co-founder @Nutrus </p>
 
 - 🔭 My research interests lie in developing AI methods for decision optimization and medical research
 - 🌱 A few applications include deep learning for ATM cash optimization & diagnostic tool for predicting animal diseases 
